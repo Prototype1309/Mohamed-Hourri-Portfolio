@@ -37,8 +37,8 @@ For this challenge, I was tasked with building my own portfolio.
 
 
 ### Website Link
-[Click here to visit the site!](https://amylumpkin.github.io/Responsive-Portfolio/)
+[Click here to visit the site!](https://prototype1309.github.io/Mohamed-Hourri-Portfolio/)
 
 ### Screenshot
 
-![Mohamed hourri Portfolio](./assets/01-html-css-git-homework-demo.png)
+![Mohamed hourri Portfolio](./assets/images/Screenshot-app.png)

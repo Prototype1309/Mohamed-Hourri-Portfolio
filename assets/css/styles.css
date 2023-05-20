@@ -190,7 +190,7 @@ body {
     opacity: 0.8;
   }
   
-  .work h3 {
+  .work h3 a{
     position: absolute;
     bottom: 20px;
     width: 100%;
